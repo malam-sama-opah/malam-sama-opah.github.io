@@ -36,7 +36,7 @@ function replaceBrand(html: string, input: FixedTemplateInput): string {
     changed = true; return `<a class="${cls}" href="${safeAttr(input.homeHref)}" aria-label="Back to homepage">${brandMarkup(input)}</a>`;
   });
   next = next.replace(/<span class="brand-logo">[\s\S]*?<\/span>/g, logoMarkup(input));
-  if (!changed) next = next.replace(/<div class="task">[\s\S]*?<\/div>/, `<a class="task" href="${safeAttr(input.homeHref)}" aria-label="Back to homepage">${esc(input.gameName)}</a>`);
+  if (!changed) { next = next.replace(/<button class="start">[\s\S]*?<\/button>/, `<a class="start" href="${safeAttr(input.homeHref)}" aria-label="Back to homepage">${logoMarkup(input)}</a>`); next = next.replace(/<div class="task">[\s\S]*?<\/div>/, `<a class="task" href="${safeAttr(input.homeHref)}" aria-label="Back to homepage">${esc(input.gameName)}</a>`); }
   return next;
 }
 
@@ -224,7 +224,7 @@ export function scopedTemplateCss(skin:string,accentColorId?:string|null):string
   const thBg=pack.dark?"rgba(255,255,255,0.1)":"rgba(15,23,42,0.06)";
   const surfaceGuard=[
     `body{background:${pack.background};color:${fg}}`,
-    `#main-content{color:${fg}}`,
+    `.site-nav{background-color:transparent}`,`.desktopbar,.desktopbar .start,.desktopbar .task,.desktopbar .topnav a,.desktopbar .topnav a:hover,.desktopbar .topnav a.active{color:#000}`,`.desktopbar .start{padding:2px;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}`,`.desktopbar .start .brand-logo{width:30px;height:30px;display:inline-grid;place-items:center;object-fit:cover}`,`.desktopbar .topnav{background:transparent}`,`#main-content{color:${fg}}`,
     `#main-content h1,#main-content h2,#main-content h3,#main-content h4,#main-content th,#main-content strong{color:${fg}}`,
     `#main-content p,#main-content li,#main-content td,#main-content figcaption{color:${muted}}`,
     `#main-content .content-card{background:${cardBg};color:${fg};border:1px solid ${borderCol}}`,
