@@ -1,0 +1,169 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "MALAM SAMA OPAH: Verified Game Guide & Wiki (2026)",
+  "description": "Start with verified MALAM SAMA OPAH facts, the Roblox game’s basic premise, and links to focused guides. We separate confirmed details from unverified claims.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "MALAM SAMA OPAH Wiki & Guide",
+    "heading": "MALAM SAMA OPAH: Roblox Game Guide and Wiki",
+    "lead": "MALAM SAMA OPAH is a Roblox survival game where players navigate Opah's house, solve puzzles, and escape while managing limited resources and avoiding threats. The game combines horror exploration with class-based progression—you spin for a random class at the start, each with unique abilities that affect your survival strategy. Below you'll find verified game basics, how to begin your first round, core mechanics, available progression paths, and where to find active codes and community updates.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/91246277860636"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-malam-sama-opah-is-verified-game-basics",
+      "heading": "What MALAM SAMA OPAH Is: Verified Game Basics",
+      "intro": "MALAM SAMA OPAH is a Roblox survival game centered on exploration, puzzle-solving, and resource management within a house environment. Players enter each round with a randomly assigned class—obtained through a spin system—that grants unique abilities affecting how you approach challenges and threats throughout the game. The experience blends horror exploration with progression mechanics tied to your class choice, creating distinct playstyles across attempts.",
+      "paragraphs": [
+        "The game's community remains active with regular updates and player engagement. For the latest codes, patch notes, and player discussions, join the official community server where developers share redemption opportunities and the community coordinates strategies. New players benefit from checking the community channels before starting, as available codes and seasonal events often rotate based on developer announcements."
+      ],
+      "table": {
+        "caption": "MALAM SAMA OPAH Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn MALAM SAMA OPAH core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "round-goals-and-core-survival-mechanics",
+      "heading": "Round Goals and Core Survival Mechanics",
+      "intro": "Each round of MALAM SAMA OPAH begins with a single primary objective: escape Opah's house. You start by spinning for a random class, which grants you unique abilities that shape how you'll approach the survival challenge ahead. Your success depends on managing limited resources, locating key items scattered through the house, and avoiding or outmaneuvering threats as you work toward the exit.",
+      "paragraphs": [
+        "Resource management is central to survival. As you explore the house, you'll search for items and currency (known as duit) that support your progression and unlock class-specific advantages. The resources you find are finite, so decisions about how and when to spend them directly influence your odds of reaching the exit alive.",
+        "Threats are present throughout the round. Avoiding or handling them is as critical as finding resources—your class abilities often determine whether you can evade, defend, or outsmart these dangers. Win conditions are clear: reach the exit and escape. If you fail to escape before certain triggers or conditions activate, the round ends and you lose.",
+        "The core loop repeats: spin a class, explore, manage resources under pressure, respond to threats using your abilities, and attempt escape. Understanding your class's strengths and the house layout accelerates your learning curve, but each spin introduces variability that keeps rounds distinct."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current MALAM SAMA OPAH Requirements",
+          "description": "Review the active mechanics and prerequisites inside MALAM SAMA OPAH before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official MALAM SAMA OPAH patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore MALAM SAMA OPAH Guides & Resources",
+      "intro": "Browse our dedicated MALAM SAMA OPAH guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "MALAM SAMA OPAH Codes",
+          "slug": "codes",
+          "description": "Check the verified MALAM SAMA OPAH codes list, reported rewards, and redemption steps. See how to distinguish promo codes from escape codes and troubleshoot."
+        },
+        {
+          "label": "MALAM SAMA OPAH Classes",
+          "slug": "classes",
+          "description": "Learn how MALAM SAMA OPAH classes work, where to spin, what class names and rarity labels have been observed, and how slots, rerolls, and passes fit in."
+        },
+        {
+          "label": "MALAM SAMA OPAH Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Start MALAM SAMA OPAH with a clear first-round walkthrough: orient yourself in the lobby, understand the objective, search the house, and learn the HUD."
+        },
+        {
+          "label": "MALAM SAMA OPAH Duit",
+          "slug": "duit",
+          "description": "Understand what Duit is in MALAM SAMA OPAH, how players can obtain it, and what it may be used for. See published facts, a reference table, and unanswered."
+        },
+        {
+          "label": "MALAM SAMA OPAH Escape Guide",
+          "slug": "escape",
+          "description": "Follow a careful MALAM SAMA OPAH escape walkthrough covering reported codes, the house objective, keys, locks, the exit, and what to check when a code fails."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is MALAM SAMA OPAH on Roblox?",
+      "answer": "MALAM SAMA OPAH is a survival game on Roblox where you explore a mysterious house, solve environmental puzzles, and attempt to escape. The game assigns you a random class with unique mechanics when you join, and success depends on managing your resources and understanding the house layout before threats catch you."
+    },
+    {
+      "question": "How do you start playing MALAM SAMA OPAH?",
+      "answer": "Launch the game on Roblox, join a server, and you'll spawn in the lobby. You'll immediately spin a random class that defines your abilities for that round. Pay attention to your assigned class traits, then enter the main area to begin searching for objectives and resources."
+    },
+    {
+      "question": "What is the goal in MALAM SAMA OPAH?",
+      "answer": "Your primary goal is to escape Opah's house by locating keys, solving codes, and reaching the exit. Along the way, you'll navigate rooms, manage health or resource constraints depending on your class, and avoid or survive encounters with Opah until you successfully exit."
+    },
+    {
+      "question": "Does MALAM SAMA OPAH have working codes?",
+      "answer": "Yes, MALAM SAMA OPAH regularly receives promo codes that grant rewards. Check the dedicated codes page for the verified current list, redemption instructions, and tips for troubleshooting failed redemptions. The community server is also a reliable source for announcements when new codes drop."
+    },
+    {
+      "question": "Where can I find verified MALAM SAMA OPAH updates?",
+      "answer": "Join the official community server linked in the game's main menu or social links. The server posts patch notes, new code announcements, and verified mechanics changes before they spread through wikis. This ensures you get accurate information directly from developers or confirmed community sources."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/91246277860636",
+      "title": "MALAM SAMA OPAH ",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://malamsamaopah.wiki/",
+      "title": "Malam Sama Opah Wiki — Horror Escape &amp; Classes",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://malam-sama-opah.wiki/",
+      "title": "Malam Sama Opah Wiki - Roblox &amp; Codes",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://malamsamaopahwiki.wiki/",
+      "title": "MALAM SAMA OPAH Wiki - Codes, Keys, Escape, Class Spins",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.roblox.com/games/91246277860636",
+      "title": "MALAM SAMA OPAH Official Mechanics & Early-Bird Reference",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-14"
+}

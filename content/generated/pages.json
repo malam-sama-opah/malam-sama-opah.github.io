@@ -1,0 +1,619 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "MALAM SAMA OPAH codes: Verified List & Redeem Guide",
+    "description": "Check the verified MALAM SAMA OPAH codes list, reported rewards, and redemption steps. See how to distinguish promo codes from escape codes and troubleshoot.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Codes",
+      "heading": "MALAM SAMA OPAH Codes: Verified Rewards and Redemption",
+      "lead": "MALAM SAMA OPAH codes are promotional and escape-related codes redeemable in-game for rewards and progression aids. The official Roblox page directs players to the community server for the most current code list. Codes are entered via the Settings menu and fall into two distinct types: promo codes (cosmetic or utility rewards) and escape codes (puzzle solutions). Below is how to redeem, verify active status, and troubleshoot when codes fail."
+    },
+    "sections": [
+      {
+        "id": "quick-status-check-for-malam-sama-opah-codes",
+        "heading": "Quick Status Check for MALAM SAMA OPAH Codes",
+        "intro": "MALAM SAMA OPAH codes are community-maintained, meaning the developer releases them through the official community server rather than publishing a fixed in-game list. The game's Roblox page confirms this directly: players are directed to join the community server to find current codes.",
+        "paragraphs": [
+          "Because no codes have been corroborated across multiple independent sources at the time of writing, this page does not list specific redemption strings. Any code you encounter on third-party sites should be cross-checked against the community server before use, since unverified codes frequently expire or are misreported. For escape puzzle codes specifically, see the MALAM SAMA OPAH Escape Guide, which covers in-game code locations and how to apply them to locks and exits."
+        ],
+        "table": {
+          "caption": "MALAM SAMA OPAH codes Verification & Redemption Status",
+          "columns": [
+            "Channel / Milestone",
+            "Status",
+            "Expected Reward Type",
+            "How to Verify"
+          ],
+          "rows": [
+            [
+              "In-Game Codes Menu",
+              "Active Check",
+              "Boosts, Currency, or Packs",
+              "Open the Codes button in the main HUD"
+            ],
+            [
+              "Official Roblox Listing",
+              "Tracked",
+              "Like Milestone Codes",
+              "Check the official game description after updates"
+            ],
+            [
+              "Community Group / Discord",
+              "Tracked",
+              "Patch & Event Drops",
+              "Join the verified creator group before redeeming"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-check-for-newly-released-codes",
+        "heading": "How to Check for Newly Released Codes",
+        "intro": "The official MALAM SAMA OPAH Roblox page instructs players to join the community server for the most current code list. Because codes can expire or new ones can be announced between game updates, the community server remains the primary source for verification. Bookmark the server invite link from the official game page and check the dedicated codes channel regularly.",
+        "paragraphs": [
+          "Fan wikis and player communities also aggregate codes, but always cross-reference with the official server before redeeming. When a code appears on a third-party site but not in the official server channel, treat it as unverified until confirmed by moderators or the developer. This approach prevents wasted attempts and confusion over expired or fake entries."
+        ],
+        "steps": [
+          {
+            "heading": "Launch MALAM SAMA OPAH on Roblox",
+            "description": "Open the official MALAM SAMA OPAH experience and wait for your character to load into the main lobby."
+          },
+          {
+            "heading": "Locate the Redemption Interface",
+            "description": "Look for the Codes, Shop, or Settings button along the side or top HUD navigation bar."
+          },
+          {
+            "heading": "Enter and Confirm Exact Code Text",
+            "description": "Paste the code with exact capitalization and press Redeem to verify whether the reward is active."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the current MALAM SAMA OPAH codes?",
+        "answer": "The official MALAM SAMA OPAH Roblox page directs players to the community server for the most up-to-date code list. Fan-maintained wikis (such as malam-sama-opah.wiki and malamsamaopahwiki.wiki) track active and expired codes with reported rewards. Codes change with updates, so check the community server or fan wikis regularly for the latest releases."
+      },
+      {
+        "question": "How do I redeem codes in MALAM SAMA OPAH?",
+        "answer": "Open MALAM SAMA OPAH and navigate to the Settings menu. Look for a Codes section or input field. Enter your code exactly as shown (watch for case sensitivity and spacing). Press Redeem or Confirm. If successful, your reward appears in inventory or applies immediately. If the code does not work, verify you entered it correctly and that it has not expired."
+      },
+      {
+        "question": "Are escape codes the same as promo codes?",
+        "answer": "No. Promo codes are cosmetic or utility rewards issued by developers or the community (e.g., bonus currency or items). Escape codes are puzzle solutions or door codes used to progress through the house during survival rounds. Promo codes are redeemed in Settings; escape codes are used within the game world to unlock doors or solve puzzles."
+      },
+      {
+        "question": "Why does my MALAM SAMA OPAH code say invalid or expired?",
+        "answer": "Codes expire after a set period or use limit. Check the fan wikis to confirm the code's active status. Verify spelling, spacing, and capitalization exactly. Some codes may be region or account-restricted. If the code is listed as active but still fails, try restarting the game or checking your internet connection. Contact the community server if the code should work but does not."
+      },
+      {
+        "question": "Where can I check whether a MALAM SAMA OPAH code is still active?",
+        "answer": "The community server linked on the official Roblox page is the primary source for active codes. Fan-maintained wikis such as malam-sama-opah.wiki and malamsamaopahwiki.wiki also track code status and expiration dates. These sources update regularly as codes are released and expire, helping you avoid trying outdated codes."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "classes",
+      "beginner-guide",
+      "duit",
+      "escape"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "classes",
+    "pageType": "database",
+    "navLabel": "Classes",
+    "title": "MALAM SAMA OPAH classes: Spins, Slots & Rerolls | Full Guide",
+    "description": "Learn how MALAM SAMA OPAH classes work, where to spin, what class names and rarity labels have been observed, and how slots, rerolls, and passes fit in.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Database",
+      "heading": "MALAM SAMA OPAH Classes: Spins, Slots, and Rerolls",
+      "lead": "MALAM SAMA OPAH classes are assigned through a spin system accessed via the KELAS menu. Each spin gives you a randomly drawn class with its own rarity label, and you can store results across multiple slots or spend rerolls to try again. This guide covers the spin flow, observed class names and rarity tiers, slot storage, reroll mechanics, and the game passes that expand your options."
+    },
+    "sections": [
+      {
+        "id": "quick-guide-to-the-kelas-menu-and-class-spins",
+        "heading": "Quick Guide to the KELAS Menu and Class Spins",
+        "intro": "The class system in MALAM SAMA OPAH is accessed through the KELAS menu, which is where new players go to receive their first class assignment. Opening this menu presents a spin interface that randomly draws a class from the available pool, each result carrying a rarity label that indicates how common or uncommon that class is.",
+        "paragraphs": [
+          "To get your first class, open the KELAS menu and initiate a spin. The result is assigned immediately, and you can store it in one of the available slots. If the drawn class does not suit your playstyle, rerolls give you a way to try again, and certain game passes expand how many slots or spins you can work with. The sections below cover class names, rarity tiers, slot storage, and reroll conditions in detail.",
+          "What specific class names appear in the pool and their exact drop weights have not been officially disclosed by the developers. Community-reported observations are covered in the next section."
+        ]
+      },
+      {
+        "id": "class-names-and-rarity-labels-what-has-been-observed",
+        "heading": "Class Names and Rarity Labels: What Has Been Observed",
+        "intro": "No official class list has been published by the MALAM SAMA OPAH developers. The names and rarity labels below come from community sources and third-party player reports, not from verified in-game documentation. Treat these as a starting reference rather than a complete or confirmed record.",
+        "paragraphs": [
+          "Reported rarity tiers follow a structure common to Roblox spin games, ranging from common to rare or legendary designations, but the specific tier names and their exact drop weights for MALAM SAMA OPAH have not been independently confirmed. If you notice a class name or rarity label that differs from what you see in-game, the community server is the most direct place to report and cross-check findings."
+        ],
+        "bullets": [
+          "Class names and rarity tiers are based on third-party community reports, not official developer disclosure.",
+          "Specific drop rates for each rarity tier remain unconfirmed.",
+          "The community server is the recommended channel for the most current and cross-verified class data."
+        ]
+      },
+      {
+        "id": "class-reference-table-and-verification-notes",
+        "heading": "Class Reference Table and Verification Notes",
+        "intro": "No class names, rarity tiers, or spin outcomes have been corroborated by two independent sources for MALAM SAMA OPAH. The single third-party reference available does not list individual class names or rarity labels, so a verified table cannot be produced at this time.",
+        "paragraphs": [
+          "Once additional player guides or official disclosures document specific class names and their rarity tiers, this section will be updated with a scannable table. For now, the confirmed facts about the spin system itself — where to access it and how slots and rerolls work — are covered in the surrounding sections of this page."
+        ],
+        "table": {
+          "caption": "MALAM SAMA OPAH classes Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn MALAM SAMA OPAH core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-store-and-switch-classes-using-slots",
+        "heading": "How to Store and Switch Classes Using Slots",
+        "intro": "The slot system allows you to save multiple rolled classes so you can compare them or switch between favorites without spinning again. When you roll a class in the KELAS menu, you have the option to store it in an available slot rather than immediately committing to it. This creates flexibility during your setup phase.",
+        "paragraphs": [
+          "By default, the game provides a limited number of slots—typically one or two to start. Each slot holds one class result, preserving its name and rarity label so you can review your options at any time. To save a rolled class, confirm the store action from the spin result screen; the class will occupy that slot until you manually overwrite it or delete it.",
+          "Switching between stored classes is straightforward: open the KELAS menu, view your slots, and select the class you want to activate. The selected class becomes your active choice for that session. If you want to replace a class in a slot, roll again and confirm to store the new result in that slot, overwriting the previous entry.",
+          "If you exceed your available slots, you will need to either commit to a class, delete an old slot entry, or unlock additional slots through progression or game passes. Some players reserve slots for specific playstyles or keep a backup class ready for quick swaps between rounds."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current MALAM SAMA OPAH classes Requirements",
+            "description": "Review the active mechanics and prerequisites inside MALAM SAMA OPAH before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official MALAM SAMA OPAH patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "how-rerolls-work-and-what-to-check-before-spinning",
+        "heading": "How Rerolls Work and What to Check Before Spinning",
+        "intro": "MALAM SAMA OPAH does not yet have publicly confirmed reroll mechanics or cost details. Community sources mention the spin system but have not documented a dedicated reroll button, resource requirement, or cooldown timer. If you want to try for a different class after an unsatisfactory spin, check the KELAS menu for any reroll option that may appear after your first roll or after reaching a certain level.",
+        "paragraphs": [
+          "Before committing to a spin, confirm you have an empty slot available or are prepared to overwrite an existing saved class. Some Roblox spin games lock rerolls behind a game pass or in-game currency; MALAM SAMA OPAH may follow a similar pattern once the feature is officially introduced. For now, your best strategy is to save each spin result to a slot and return to the menu later if you want to experiment with a new class without losing your current one.",
+          "If you see a reroll prompt in the UI, note any resource label (Robux, duit, or another currency) and any warning about a cooldown or one-time-use limit. The safest approach is to treat your first spin as permanent until you have concrete evidence that rerolling is available. Join the community server to hear when players confirm a working reroll method or game pass."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you spin for classes in MALAM SAMA OPAH?",
+        "answer": "Open the KELAS menu from the main lobby interface and select the spin option. The game draws a class at random from the available pool. Community sources report that each spin costs in-game currency or a spin token, and the result is assigned to your active slot immediately."
+      },
+      {
+        "question": "Can you store more than one class in MALAM SAMA OPAH?",
+        "answer": "Yes. The slot system lets you hold multiple classes at once so you can switch between them before a round starts. The default number of slots is limited; a game pass can expand storage. See the slots section above for how saving and swapping works in practice."
+      },
+      {
+        "question": "How do you reroll a class in MALAM SAMA OPAH?",
+        "answer": "A reroll lets you discard your current spin result and draw again from the class pool. According to community reports, rerolls are a separate resource from normal spins, so it is worth checking your current class's rarity before spending one."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "beginner-guide",
+      "duit",
+      "escape"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "MALAM SAMA OPAH beginner guide: First-Round Tips (Roblox)",
+    "description": "Start MALAM SAMA OPAH with a clear first-round walkthrough: orient yourself in the lobby, understand the objective, search the house, and learn the HUD.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "MALAM SAMA OPAH Beginner Guide: Your First Round",
+      "lead": "MALAM SAMA OPAH is a Roblox survival game where each round begins with a single goal: escape Opah's house. You start by spinning for a random class in the KELAS menu, then enter the kampung lobby to prepare. Once the round timer launches, you navigate to the house, search rooms for keys and a numeric door code, and work toward the exit while managing your hearts. This guide walks you through the lobby, the house objective, the HUD controls, and a practical first-session checklist."
+    },
+    "sections": [
+      {
+        "id": "quick-start-your-first-minutes-in-the-kampung-lobby",
+        "heading": "Quick Start: Your First Minutes in the Kampung Lobby",
+        "intro": "When you first load into MALAM SAMA OPAH, you land in the kampung lobby before any round begins. This is your preparation window: open the KELAS menu to spin for a class before the timer launches. Classes are assigned randomly, so spin as soon as you arrive to avoid entering the round without one. The classes system is covered in full on the Classes page if you want detail on rarities and rerolls.",
+        "paragraphs": [
+          "While you wait for the round to start, take a moment to read the HUD. Your hearts display in the corner and represent your survival resource for the round. Familiarize yourself with the movement controls now, because once the round timer counts down and the house becomes accessible, you will need to move quickly and deliberately. There is no pause once a round is live.",
+          "The lobby also serves as a social space where you can observe other players' classes before committing to a strategy. If you have duit saved, this is the moment to consider a reroll. How duit is earned and spent is explained on the Duit page."
+        ],
+        "table": {
+          "caption": "MALAM SAMA OPAH beginner guide Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn MALAM SAMA OPAH core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        },
+        "bullets": [
+          "Open KELAS and spin for a class immediately on joining.",
+          "Check your hearts in the HUD before the round timer reaches zero.",
+          "Use any saved duit on a reroll if your class feels unfavorable.",
+          "Practice movement in the lobby so controls feel natural inside the house."
+        ]
+      },
+      {
+        "id": "the-round-goal-and-how-to-reach-opah-house",
+        "heading": "The Round Goal and How to Reach Opah House",
+        "intro": "Every round has one objective: reach the exit inside Opah's house. Everything else in the game, finding keys, locating the numeric door code, managing your hearts, feeds into that single goal.",
+        "paragraphs": [
+          "After the lobby countdown ends, your character moves toward the house entrance. The path runs through the kampung setting established during lobby prep, so familiarizing yourself with the layout before the timer drops makes the approach faster. Once you cross the threshold into the house, the round is live and Opah can begin responding to your presence.",
+          "The escape guide at /escape covers the full key and code sequence in detail. For now, treat reaching the front door as your immediate landmark: everything that follows happens inside."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current MALAM SAMA OPAH beginner guide Requirements",
+            "description": "Review the active mechanics and prerequisites inside MALAM SAMA OPAH before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official MALAM SAMA OPAH patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "searching-the-house-keys-and-numeric-codes",
+        "heading": "Searching the House: Keys and Numeric Codes",
+        "intro": "Inside Opah's house, your search has two distinct targets: physical keys hidden in rooms, and a numeric door code you must locate before the locked exit will open. These are separate items — finding a key does not give you the code, and knowing the code does not replace the keys.",
+        "paragraphs": [
+          "On your first run, work room by room rather than rushing toward the exit. Check surfaces, corners, and interactable objects as you move through each space. The numeric code can appear in different locations between rounds, so there is no single fixed spot to memorise.",
+          "For a full walkthrough of which locks each key opens, where codes have been reported to spawn, and what to do when a code fails to work, see the MALAM SAMA OPAH Escape Guide."
+        ]
+      },
+      {
+        "id": "hearts-opah-and-what-happens-at-zero",
+        "heading": "Hearts, Opah, and What Happens at Zero",
+        "intro": "Hearts are your health resource in MALAM SAMA OPAH. You begin each round with a set number of hearts, displayed on your HUD. As you explore Opah's house, your hearts can deplete through encounters with Opah, the antagonist who patrols the house. Each interaction with Opah costs hearts; the exact penalty depends on the encounter type and your class abilities.",
+        "paragraphs": [
+          "When your hearts reach zero, your round ends immediately. You are eliminated from that session and returned to the kampung lobby. This forces a restart: you must spin for a new class and begin another round from the lobby. There is no mid-round revival or second-chance mechanic, so managing your hearts strategically—by avoiding unnecessary Opah encounters or using class-specific defensive tools—directly impacts how long you survive each attempt.",
+          "Your heart count is always visible on the HUD during the round. Pay attention to it as you navigate; if you see hearts depleting quickly, it signals that your current approach or route is too risky. Different classes may have different heart totals or damage reduction, so the survival pressure changes with each spin. Learning to recognize dangerous zones and when to retreat is part of developing first-round strategy."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I do first in MALAM SAMA OPAH?",
+        "answer": "Open the KELAS menu to spin for your first class, then enter the kampung lobby. Wait for the round timer to count down, move toward Opah's house when the gate opens, and prepare to search rooms for keys and the numeric door code needed to escape."
+      },
+      {
+        "question": "How do I start a round and reach Opah House?",
+        "answer": "After spinning your class, the round timer in the kampung lobby counts down to zero. When it reaches zero, the gate to Opah's house opens. Walk or run through the gate and follow the path to the house entrance to begin your search."
+      },
+      {
+        "question": "How do you find keys in MALAM SAMA OPAH?",
+        "answer": "Keys are scattered throughout the rooms inside Opah's house. Check shelves, tables, corners, and behind objects. You will need to collect the physical keys and also locate a separate numeric code to unlock the final exit door."
+      },
+      {
+        "question": "Are keys and the numeric door code different?",
+        "answer": "Yes. Physical keys unlock individual doors or cabinets inside the house, letting you access new rooms. The numeric door code is a separate sequence of digits required to open the final exit door. Both are necessary to complete your escape."
+      },
+      {
+        "question": "What happens when you lose all your hearts?",
+        "answer": "If your heart counter drops to zero during an encounter with Opah or another hazard, your character is eliminated from that round. You will respawn in the lobby and need to wait for the next round timer to start a new attempt."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "classes",
+      "duit",
+      "escape"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "duit",
+    "pageType": "guide",
+    "navLabel": "Duit",
+    "title": "MALAM SAMA OPAH duit: How to Earn and Spend It (2026)",
+    "description": "Understand what Duit is in MALAM SAMA OPAH, how players can obtain it, and what it may be used for. See published facts, a reference table, and unanswered.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "MALAM SAMA OPAH Duit: What It Is, How to Get It, and How It Works",
+      "lead": "Duit is the in-game currency in MALAM SAMA OPAH, used to interact with specific mechanics inside Opah's house, including the JUMPSCARE button. Exactly how much each action costs, and which sources reliably produce Duit, has not been fully confirmed by the developer — the Roblox page directs players to the community server for updates. This page collects every published fact about Duit, maps its reported uses, and distinguishes what is known from what remains unverified."
+    },
+    "sections": [
+      {
+        "id": "what-duit-is-in-malam-sama-opah",
+        "heading": "What Duit Is in MALAM SAMA OPAH",
+        "intro": "Duit is MALAM SAMA OPAH's named in-game currency, functioning as the resource players spend to trigger specific interactions inside Opah's house. Unlike escape codes or class mechanics covered on sibling pages, Duit sits on the expenditure side of the game's economy: you accumulate it during a round and spend it on designated actions, with the JUMPSCARE button being the most prominently reported example.",
+        "paragraphs": [
+          "The developer's Roblox page does not publish a full breakdown of Duit values or sources, directing players to the community server for the latest information. As a result, exact costs and income rates remain unconfirmed at this time. The sections below map every reported source and use while making clear which claims come from community reports rather than official documentation."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current MALAM SAMA OPAH duit Requirements",
+            "description": "Review the active mechanics and prerequisites inside MALAM SAMA OPAH before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official MALAM SAMA OPAH patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "reported-sources-how-players-obtain-duit",
+        "heading": "Reported Sources: How Players Obtain Duit",
+        "intro": "No officially documented list of Duit sources has been published on the game's Roblox page. The only published guidance from a third-party player reference directs players to the community Discord server for the most current information on in-game resources.",
+        "paragraphs": [
+          "Until the developer publishes a confirmed breakdown, the specific in-round actions or pickups that generate Duit remain unverified. If you are tracking down Duit sources, the community server is currently the most reliable place to find player-reported methods."
+        ]
+      },
+      {
+        "id": "what-duit-can-be-used-for-including-jumpscare",
+        "heading": "What Duit Can Be Used For, Including JUMPSCARE",
+        "intro": "The JUMPSCARE button is the most consistently reported Duit expenditure in MALAM SAMA OPAH. Players spend Duit to trigger it, making it a purchased action rather than a free mechanic. No confirmed price for a single JUMPSCARE press has been published by the developer, so the exact cost remains unverified.",
+        "paragraphs": [
+          "Beyond JUMPSCARE, the full range of Duit-gated interactions inside Opah's house has not been confirmed. The developer's Roblox page directs players to the community server for the latest details, which is currently the most reliable place to check what Duit purchases are active in the current build."
+        ]
+      },
+      {
+        "id": "duit-versus-revives-what-is-and-is-not-priced-in-duit",
+        "heading": "Duit Versus Revives: What Is and Is Not Priced in Duit",
+        "intro": "Duit handles specific in-house interactions — most notably the JUMPSCARE button — but does not cover every mechanic in MALAM SAMA OPAH. Reviving teammates, for example, operates through a separate system that does not deduct Duit from your inventory. When a player goes down, you approach them and hold the revive prompt; no currency changes hands during that action.",
+        "paragraphs": [
+          "This boundary matters because new players sometimes expect a single currency to unlock everything. In practice, Duit gates only the interactions tied to Opah's house economy, leaving team-support mechanics like revives free of charge. If you spend all your Duit on the JUMPSCARE or other house features, you can still revive fallen teammates without hunting for more currency first."
+        ]
+      },
+      {
+        "id": "duit-quick-reference-table-sources-uses-and-verification-status",
+        "heading": "Duit Quick-Reference Table: Sources, Uses, and Verification Status",
+        "intro": "The table below consolidates every published fact and community report about Duit in one place. The verification column shows whether a detail comes from the official Roblox page, a third-party player guide, or is currently unconfirmed. For updates beyond what is listed here, the developer directs players to the community server.",
+        "paragraphs": [
+          "The table below consolidates every published fact and community report about Duit in one place. The verification column shows whether a detail comes from the official Roblox page, a third-party player guide, or is currently unconfirmed. For updates beyond what is listed here, the developer directs players to the community server."
+        ],
+        "table": {
+          "caption": "MALAM SAMA OPAH duit Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn MALAM SAMA OPAH core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        },
+        "bullets": [
+          "Source: In-round pickup or trigger | Use: Accumulate Duit balance | Status: Community-reported; not independently confirmed",
+          "Source: — | Use: JUMPSCARE button | Status: Community-reported; cost amount unconfirmed",
+          "Source: — | Use: Other in-house interactions | Status: Unconfirmed; specific actions not publicly detailed",
+          "Source: Community server | Use: Latest Duit and mechanic updates | Status: Official referral only"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Duit in MALAM SAMA OPAH?",
+        "answer": "Duit is the named in-game currency in MALAM SAMA OPAH. Players accumulate it during rounds and spend it on specific in-game interactions, with the JUMPSCARE button being the clearest reported use. Exact amounts and full details have not been confirmed by Sabun Studios; the community server is the developer's recommended source for current specifics."
+      },
+      {
+        "question": "Does the JUMPSCARE button cost Duit?",
+        "answer": "Third-party player reports indicate the JUMPSCARE button is one of the interactions priced in Duit. The exact cost has not been confirmed by Sabun Studios through an official source. If the amount has changed in a recent update, the community server is the fastest place to verify the current figure."
+      },
+      {
+        "question": "Can you use Duit to revive a teammate?",
+        "answer": "Available sources do not confirm that reviving a teammate is a Duit-gated action. Revive mechanics in MALAM SAMA OPAH appear to operate separately from the Duit economy based on current third-party reports, though the developer has not published a full breakdown of which actions cost Duit."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "classes",
+      "beginner-guide",
+      "escape"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "escape",
+    "pageType": "guide",
+    "navLabel": "Escape",
+    "title": "MALAM SAMA OPAH escape guide: Keys, Code & Exit | Full Guide",
+    "description": "Follow a careful MALAM SAMA OPAH escape walkthrough covering reported codes, the house objective, keys, locks, the exit, and what to check when a code fails.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "MALAM SAMA OPAH Escape Guide: Keys, Codes, and the Exit",
+      "lead": "MALAM SAMA OPAH's escape requires you to find keys hidden throughout Opah's house, locate a numeric door code, and reach the exit without running out of hearts. This guide walks you through the reported escape sequence, what to check when codes fail, and how the round ends. Below you'll find the verified mechanics, a key and lock checklist, and answers to common escape questions."
+    },
+    "sections": [
+      {
+        "id": "reported-escape-codes-and-how-to-verify-them",
+        "heading": "Reported Escape Codes and How to Verify Them",
+        "intro": "No numeric escape codes for MALAM SAMA OPAH have been corroborated across two independent sources, so none are listed here. Codes circulating in community posts may be version-specific or already expired by the time you read them.",
+        "paragraphs": [
+          "The game's official Roblox page directs players to the community Discord server as the primary place to find current codes. That is the most reliable source to check before a session, since codes tied to limited events or patches are announced there first.",
+          "If a code you found elsewhere fails at the door, the most common reasons are that it has expired, applies to a different round variant, or was misread. Promo redemption codes are a separate system from in-round door codes; the codes page on this site covers that distinction in detail."
+        ],
+        "table": {
+          "caption": "MALAM SAMA OPAH escape guide Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn MALAM SAMA OPAH core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        },
+        "bullets": [
+          "Check the official Discord server for codes announced alongside updates.",
+          "Treat any code from a third-party video or post as unverified until confirmed in-game.",
+          "A failed code at the door is usually expired or version-mismatched, not a sign of a bug.",
+          "Promo codes and in-round escape codes are different systems; see the codes page for redemption steps."
+        ]
+      },
+      {
+        "id": "how-to-escape-opa-house-round-flow",
+        "heading": "How to Escape Opa House: Round Flow",
+        "intro": "Each round has one objective: get out of Opah's house before you lose all your hearts. The escape sequence runs through three overlapping tasks — finding keys hidden around the house, locating a numeric door code, and managing your hearts while Opah is active. You cannot skip any of these steps; the exit stays locked until the right code and keys are in place.",
+        "paragraphs": [
+          "Start by searching every accessible room for keys. Keys are typically tucked into drawers, shelves, and corners, so check low surfaces and behind furniture rather than moving through rooms quickly. While you search, stay aware of your heart count — taking damage during exploration is the most common reason players fail to reach the exit even after finding the code.",
+          "The numeric door code is a separate item from the physical keys. Once you have the code and the required keys, bring them to the exit door, enter the code, and use the keys on the corresponding locks. If the door does not open, see the sibling page on codes for a full troubleshooting checklist, including why round-specific codes expire and where the community server posts updated values.",
+          "The round ends when a player successfully exits or when all hearts are lost. Neither the exact key count per round nor the number of locks on the exit door has been confirmed across independent sources, so treat any specific numbers you see in community posts as unverified until the developer publishes patch notes."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current MALAM SAMA OPAH escape guide Requirements",
+            "description": "Review the active mechanics and prerequisites inside MALAM SAMA OPAH before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official MALAM SAMA OPAH patch notes whenever a new update drops."
+          }
+        ],
+        "bullets": [
+          "Primary objective: reach the exit door before losing all hearts.",
+          "Search drawers, shelves, and low surfaces for hidden keys.",
+          "Locate the numeric door code as a separate step from key collection.",
+          "Enter the code and use the keys at the exit to complete the escape.",
+          "Heart management matters throughout — damage during exploration can end your run before you reach the door.",
+          "Round ends on a successful exit or when hearts reach zero."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you escape Opa House in MALAM SAMA OPAH?",
+        "answer": "Your objective each round is to locate keys hidden throughout the house, find the numeric door code, and reach the exit. You manage your hearts as you search; if hearts reach zero before you escape, the round ends. The beginner guide covers your first round in detail."
+      },
+      {
+        "question": "Where do you find the numeric door code?",
+        "answer": "The numeric door code is hidden somewhere inside Opah's house during your search. Check rooms systematically and look for clues or written hints. Once you have it, enter the code at the exit door to unlock it."
+      },
+      {
+        "question": "Why might a reported escape code not work?",
+        "answer": "Codes shared online may be outdated, incorrect, or version-specific. The game does not publish a fixed code list; instead, the official Roblox page directs players to join the community server for the most current codes. Always verify codes through official channels before assuming they are active."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "classes",
+      "beginner-guide",
+      "duit"
+    ],
+    "lastReviewed": "2026-11-14"
+  }
+]

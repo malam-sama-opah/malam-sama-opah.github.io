@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": true,
+  "siteName": "MALAM SAMA OPAH Guide",
+  "shortName": "MALAM SAMA OPAH",
+  "description": "Start with verified MALAM SAMA OPAH facts, the Roblox game’s basic premise, and links to focused guides. We separate confirmed details from unverified claims.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "180 100% 25%",
+      "foreground": "0 0% 99%",
+      "card": "180 100% 30%",
+      "card-foreground": "0 0% 7%",
+      "primary": "240 100% 25%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "180 100% 36%",
+      "muted": "180 100% 33%",
+      "muted-foreground": "0 0% 99%",
+      "border": "180 100% 41%",
+      "radius": ".75rem",
+      "card-shadow": "0 22px 70px hsl(240 100% 25% / .16)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(240 100% 25% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(240 100% 25% / .05) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"IBM Plex Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "heading-weight": "600",
+      "heading-letter-spacing": "0em"
+    },
+    "skin": "desktop",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#008080",
+    "accent": "#000080",
+    "fontId": "ibm-plex-mono"
+  },
+  "hosting": {
+    "siteUrl": "https://malam-sama-opah.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/malam-sama-opah-logo.png",
+    "cover": "/images/malam-sama-opah-cover.png",
+    "openGraph": "/images/malam-sama-opah-og.svg",
+    "favicon": "/images/malam-sama-opah-logo.png"
+  },
+  "game": {
+    "name": "MALAM SAMA OPAH",
+    "platform": "Roblox",
+    "developer": "Sabun Studios",
+    "genre": "",
+    "officialUrl": "https://www.roblox.com/games/91246277860636"
+  },
+  "seo": {
+    "titleTemplate": "%s | MALAM SAMA OPAH Guide"
+  }
+}
